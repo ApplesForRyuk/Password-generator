@@ -24,7 +24,7 @@ def generatePassword():
 
     print(password)
 
-firstStep = input("Do you want to generate a password? (Yes/No")
+firstStep = input("Do you want to generate a password? (Yes/No): ")
 
 if(firstStep=="Yes"):
     generatePassword()
