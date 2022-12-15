@@ -24,3 +24,7 @@ def generatePassword():
 
     print(password)
 
+firstStep = input("Do you want to generate a password? (Yes/Not at the moment!")
+
+
+
